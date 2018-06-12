@@ -11,10 +11,10 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='feincms_richtextplus',
-    version='1.0.0',
+    version='1.1.0',
     packages=['feincms_richtextplus'],
     include_package_data=True,
-    license='BSD License',  
+    license='BSD License',
     description='RichText Content with TYPE_CHOICES configurability',
     long_description=README,
     url='https://github.com/paramono/feincms_richtextplus',
